@@ -1,0 +1,577 @@
+month,sku,name,category,units_sold
+2024-09,BB-DRK-011,Stoneware Latte Cup 280ml,Drinkware,5
+2024-09,BB-DRK-014,Double-Walled Stoneware Mug 350ml,Drinkware,10
+2024-09,BB-DRK-017,Borosilicate Glass Tumbler 400ml,Drinkware,12
+2024-09,BB-DRK-021,Insulated Steel Travel Flask 500ml,Drinkware,4
+2024-09,BB-DRK-026,Ceramic Pour-Over Set,Drinkware,4
+2024-09,BB-COF-041,House Blend Coffee Beans 250g,Coffee & Tea,24
+2024-09,BB-COF-043,Single Origin Ethiopia 250g,Coffee & Tea,15
+2024-09,BB-COF-045,Decaf Swiss Water 250g,Coffee & Tea,5
+2024-09,BB-COF-052,Loose Leaf Jasmine Green 100g,Coffee & Tea,6
+2024-09,BB-COF-055,Cold Brew Filter Bags (8 pack),Coffee & Tea,0
+2024-09,BB-FRG-061,Soy Candle Fig & Cedar 220g,Home Fragrance,12
+2024-09,BB-FRG-064,Soy Candle Sea Salt 220g,Home Fragrance,12
+2024-09,BB-FRG-068,Reed Diffuser Neroli 200ml,Home Fragrance,9
+2024-09,BB-FRG-072,Room Mist Lemongrass 100ml,Home Fragrance,5
+2024-09,BB-HOM-081,Linen Tea Towel Set of 2,Homeware,5
+2024-09,BB-HOM-084,Oak Serving Board Small,Homeware,4
+2024-09,BB-HOM-087,Woven Storage Basket Medium,Homeware,3
+2024-09,BB-HOM-092,Ribbed Glass Vase 22cm,Homeware,5
+2024-09,BB-GFT-101,Coffee Lover Gift Box,Gift Sets,8
+2024-09,BB-GFT-104,Calm Evening Gift Box,Gift Sets,5
+2024-09,BB-GFT-107,New Home Gift Box,Gift Sets,2
+2024-09,BB-STA-031,Recycled Kraft Notebook A5,Stationery,2
+2024-09,BB-STA-034,Refillable Brass Pen,Stationery,1
+2024-09,BB-STA-037,Linen-Bound Recipe Journal,Stationery,0
+2024-10,BB-DRK-011,Stoneware Latte Cup 280ml,Drinkware,9
+2024-10,BB-DRK-014,Double-Walled Stoneware Mug 350ml,Drinkware,10
+2024-10,BB-DRK-017,Borosilicate Glass Tumbler 400ml,Drinkware,10
+2024-10,BB-DRK-021,Insulated Steel Travel Flask 500ml,Drinkware,7
+2024-10,BB-DRK-026,Ceramic Pour-Over Set,Drinkware,3
+2024-10,BB-COF-041,House Blend Coffee Beans 250g,Coffee & Tea,25
+2024-10,BB-COF-043,Single Origin Ethiopia 250g,Coffee & Tea,19
+2024-10,BB-COF-045,Decaf Swiss Water 250g,Coffee & Tea,7
+2024-10,BB-COF-052,Loose Leaf Jasmine Green 100g,Coffee & Tea,5
+2024-10,BB-COF-055,Cold Brew Filter Bags (8 pack),Coffee & Tea,0
+2024-10,BB-FRG-061,Soy Candle Fig & Cedar 220g,Home Fragrance,21
+2024-10,BB-FRG-064,Soy Candle Sea Salt 220g,Home Fragrance,13
+2024-10,BB-FRG-068,Reed Diffuser Neroli 200ml,Home Fragrance,7
+2024-10,BB-FRG-072,Room Mist Lemongrass 100ml,Home Fragrance,5
+2024-10,BB-HOM-081,Linen Tea Towel Set of 2,Homeware,6
+2024-10,BB-HOM-084,Oak Serving Board Small,Homeware,4
+2024-10,BB-HOM-087,Woven Storage Basket Medium,Homeware,4
+2024-10,BB-HOM-092,Ribbed Glass Vase 22cm,Homeware,4
+2024-10,BB-GFT-101,Coffee Lover Gift Box,Gift Sets,8
+2024-10,BB-GFT-104,Calm Evening Gift Box,Gift Sets,5
+2024-10,BB-GFT-107,New Home Gift Box,Gift Sets,2
+2024-10,BB-STA-031,Recycled Kraft Notebook A5,Stationery,2
+2024-10,BB-STA-034,Refillable Brass Pen,Stationery,2
+2024-10,BB-STA-037,Linen-Bound Recipe Journal,Stationery,0
+2024-11,BB-DRK-011,Stoneware Latte Cup 280ml,Drinkware,8
+2024-11,BB-DRK-014,Double-Walled Stoneware Mug 350ml,Drinkware,18
+2024-11,BB-DRK-017,Borosilicate Glass Tumbler 400ml,Drinkware,21
+2024-11,BB-DRK-021,Insulated Steel Travel Flask 500ml,Drinkware,9
+2024-11,BB-DRK-026,Ceramic Pour-Over Set,Drinkware,5
+2024-11,BB-COF-041,House Blend Coffee Beans 250g,Coffee & Tea,45
+2024-11,BB-COF-043,Single Origin Ethiopia 250g,Coffee & Tea,18
+2024-11,BB-COF-045,Decaf Swiss Water 250g,Coffee & Tea,6
+2024-11,BB-COF-052,Loose Leaf Jasmine Green 100g,Coffee & Tea,11
+2024-11,BB-COF-055,Cold Brew Filter Bags (8 pack),Coffee & Tea,0
+2024-11,BB-FRG-061,Soy Candle Fig & Cedar 220g,Home Fragrance,14
+2024-11,BB-FRG-064,Soy Candle Sea Salt 220g,Home Fragrance,12
+2024-11,BB-FRG-068,Reed Diffuser Neroli 200ml,Home Fragrance,11
+2024-11,BB-FRG-072,Room Mist Lemongrass 100ml,Home Fragrance,9
+2024-11,BB-HOM-081,Linen Tea Towel Set of 2,Homeware,6
+2024-11,BB-HOM-084,Oak Serving Board Small,Homeware,4
+2024-11,BB-HOM-087,Woven Storage Basket Medium,Homeware,2
+2024-11,BB-HOM-092,Ribbed Glass Vase 22cm,Homeware,5
+2024-11,BB-GFT-101,Coffee Lover Gift Box,Gift Sets,13
+2024-11,BB-GFT-104,Calm Evening Gift Box,Gift Sets,8
+2024-11,BB-GFT-107,New Home Gift Box,Gift Sets,6
+2024-11,BB-STA-031,Recycled Kraft Notebook A5,Stationery,3
+2024-11,BB-STA-034,Refillable Brass Pen,Stationery,3
+2024-11,BB-STA-037,Linen-Bound Recipe Journal,Stationery,0
+2024-12,BB-DRK-011,Stoneware Latte Cup 280ml,Drinkware,13
+2024-12,BB-DRK-014,Double-Walled Stoneware Mug 350ml,Drinkware,15
+2024-12,BB-DRK-017,Borosilicate Glass Tumbler 400ml,Drinkware,23
+2024-12,BB-DRK-021,Insulated Steel Travel Flask 500ml,Drinkware,9
+2024-12,BB-DRK-026,Ceramic Pour-Over Set,Drinkware,6
+2024-12,BB-COF-041,House Blend Coffee Beans 250g,Coffee & Tea,38
+2024-12,BB-COF-043,Single Origin Ethiopia 250g,Coffee & Tea,21
+2024-12,BB-COF-045,Decaf Swiss Water 250g,Coffee & Tea,7
+2024-12,BB-COF-052,Loose Leaf Jasmine Green 100g,Coffee & Tea,10
+2024-12,BB-COF-055,Cold Brew Filter Bags (8 pack),Coffee & Tea,0
+2024-12,BB-FRG-061,Soy Candle Fig & Cedar 220g,Home Fragrance,28
+2024-12,BB-FRG-064,Soy Candle Sea Salt 220g,Home Fragrance,16
+2024-12,BB-FRG-068,Reed Diffuser Neroli 200ml,Home Fragrance,13
+2024-12,BB-FRG-072,Room Mist Lemongrass 100ml,Home Fragrance,8
+2024-12,BB-HOM-081,Linen Tea Towel Set of 2,Homeware,7
+2024-12,BB-HOM-084,Oak Serving Board Small,Homeware,5
+2024-12,BB-HOM-087,Woven Storage Basket Medium,Homeware,4
+2024-12,BB-HOM-092,Ribbed Glass Vase 22cm,Homeware,6
+2024-12,BB-GFT-101,Coffee Lover Gift Box,Gift Sets,13
+2024-12,BB-GFT-104,Calm Evening Gift Box,Gift Sets,8
+2024-12,BB-GFT-107,New Home Gift Box,Gift Sets,8
+2024-12,BB-STA-031,Recycled Kraft Notebook A5,Stationery,3
+2024-12,BB-STA-034,Refillable Brass Pen,Stationery,2
+2024-12,BB-STA-037,Linen-Bound Recipe Journal,Stationery,0
+2025-01,BB-DRK-011,Stoneware Latte Cup 280ml,Drinkware,6
+2025-01,BB-DRK-014,Double-Walled Stoneware Mug 350ml,Drinkware,14
+2025-01,BB-DRK-017,Borosilicate Glass Tumbler 400ml,Drinkware,11
+2025-01,BB-DRK-021,Insulated Steel Travel Flask 500ml,Drinkware,6
+2025-01,BB-DRK-026,Ceramic Pour-Over Set,Drinkware,4
+2025-01,BB-COF-041,House Blend Coffee Beans 250g,Coffee & Tea,28
+2025-01,BB-COF-043,Single Origin Ethiopia 250g,Coffee & Tea,13
+2025-01,BB-COF-045,Decaf Swiss Water 250g,Coffee & Tea,4
+2025-01,BB-COF-052,Loose Leaf Jasmine Green 100g,Coffee & Tea,7
+2025-01,BB-COF-055,Cold Brew Filter Bags (8 pack),Coffee & Tea,0
+2025-01,BB-FRG-061,Soy Candle Fig & Cedar 220g,Home Fragrance,9
+2025-01,BB-FRG-064,Soy Candle Sea Salt 220g,Home Fragrance,10
+2025-01,BB-FRG-068,Reed Diffuser Neroli 200ml,Home Fragrance,7
+2025-01,BB-FRG-072,Room Mist Lemongrass 100ml,Home Fragrance,5
+2025-01,BB-HOM-081,Linen Tea Towel Set of 2,Homeware,5
+2025-01,BB-HOM-084,Oak Serving Board Small,Homeware,4
+2025-01,BB-HOM-087,Woven Storage Basket Medium,Homeware,2
+2025-01,BB-HOM-092,Ribbed Glass Vase 22cm,Homeware,3
+2025-01,BB-GFT-101,Coffee Lover Gift Box,Gift Sets,4
+2025-01,BB-GFT-104,Calm Evening Gift Box,Gift Sets,4
+2025-01,BB-GFT-107,New Home Gift Box,Gift Sets,2
+2025-01,BB-STA-031,Recycled Kraft Notebook A5,Stationery,4
+2025-01,BB-STA-034,Refillable Brass Pen,Stationery,5
+2025-01,BB-STA-037,Linen-Bound Recipe Journal,Stationery,0
+2025-02,BB-DRK-011,Stoneware Latte Cup 280ml,Drinkware,6
+2025-02,BB-DRK-014,Double-Walled Stoneware Mug 350ml,Drinkware,10
+2025-02,BB-DRK-017,Borosilicate Glass Tumbler 400ml,Drinkware,13
+2025-02,BB-DRK-021,Insulated Steel Travel Flask 500ml,Drinkware,4
+2025-02,BB-DRK-026,Ceramic Pour-Over Set,Drinkware,4
+2025-02,BB-COF-041,House Blend Coffee Beans 250g,Coffee & Tea,22
+2025-02,BB-COF-043,Single Origin Ethiopia 250g,Coffee & Tea,18
+2025-02,BB-COF-045,Decaf Swiss Water 250g,Coffee & Tea,6
+2025-02,BB-COF-052,Loose Leaf Jasmine Green 100g,Coffee & Tea,8
+2025-02,BB-COF-055,Cold Brew Filter Bags (8 pack),Coffee & Tea,0
+2025-02,BB-FRG-061,Soy Candle Fig & Cedar 220g,Home Fragrance,12
+2025-02,BB-FRG-064,Soy Candle Sea Salt 220g,Home Fragrance,12
+2025-02,BB-FRG-068,Reed Diffuser Neroli 200ml,Home Fragrance,7
+2025-02,BB-FRG-072,Room Mist Lemongrass 100ml,Home Fragrance,4
+2025-02,BB-HOM-081,Linen Tea Towel Set of 2,Homeware,3
+2025-02,BB-HOM-084,Oak Serving Board Small,Homeware,4
+2025-02,BB-HOM-087,Woven Storage Basket Medium,Homeware,4
+2025-02,BB-HOM-092,Ribbed Glass Vase 22cm,Homeware,5
+2025-02,BB-GFT-101,Coffee Lover Gift Box,Gift Sets,6
+2025-02,BB-GFT-104,Calm Evening Gift Box,Gift Sets,4
+2025-02,BB-GFT-107,New Home Gift Box,Gift Sets,2
+2025-02,BB-STA-031,Recycled Kraft Notebook A5,Stationery,3
+2025-02,BB-STA-034,Refillable Brass Pen,Stationery,3
+2025-02,BB-STA-037,Linen-Bound Recipe Journal,Stationery,0
+2025-03,BB-DRK-011,Stoneware Latte Cup 280ml,Drinkware,5
+2025-03,BB-DRK-014,Double-Walled Stoneware Mug 350ml,Drinkware,12
+2025-03,BB-DRK-017,Borosilicate Glass Tumbler 400ml,Drinkware,15
+2025-03,BB-DRK-021,Insulated Steel Travel Flask 500ml,Drinkware,6
+2025-03,BB-DRK-026,Ceramic Pour-Over Set,Drinkware,5
+2025-03,BB-COF-041,House Blend Coffee Beans 250g,Coffee & Tea,30
+2025-03,BB-COF-043,Single Origin Ethiopia 250g,Coffee & Tea,17
+2025-03,BB-COF-045,Decaf Swiss Water 250g,Coffee & Tea,6
+2025-03,BB-COF-052,Loose Leaf Jasmine Green 100g,Coffee & Tea,9
+2025-03,BB-COF-055,Cold Brew Filter Bags (8 pack),Coffee & Tea,0
+2025-03,BB-FRG-061,Soy Candle Fig & Cedar 220g,Home Fragrance,10
+2025-03,BB-FRG-064,Soy Candle Sea Salt 220g,Home Fragrance,8
+2025-03,BB-FRG-068,Reed Diffuser Neroli 200ml,Home Fragrance,6
+2025-03,BB-FRG-072,Room Mist Lemongrass 100ml,Home Fragrance,6
+2025-03,BB-HOM-081,Linen Tea Towel Set of 2,Homeware,4
+2025-03,BB-HOM-084,Oak Serving Board Small,Homeware,3
+2025-03,BB-HOM-087,Woven Storage Basket Medium,Homeware,3
+2025-03,BB-HOM-092,Ribbed Glass Vase 22cm,Homeware,4
+2025-03,BB-GFT-101,Coffee Lover Gift Box,Gift Sets,4
+2025-03,BB-GFT-104,Calm Evening Gift Box,Gift Sets,4
+2025-03,BB-GFT-107,New Home Gift Box,Gift Sets,2
+2025-03,BB-STA-031,Recycled Kraft Notebook A5,Stationery,3
+2025-03,BB-STA-034,Refillable Brass Pen,Stationery,2
+2025-03,BB-STA-037,Linen-Bound Recipe Journal,Stationery,0
+2025-04,BB-DRK-011,Stoneware Latte Cup 280ml,Drinkware,7
+2025-04,BB-DRK-014,Double-Walled Stoneware Mug 350ml,Drinkware,17
+2025-04,BB-DRK-017,Borosilicate Glass Tumbler 400ml,Drinkware,17
+2025-04,BB-DRK-021,Insulated Steel Travel Flask 500ml,Drinkware,6
+2025-04,BB-DRK-026,Ceramic Pour-Over Set,Drinkware,4
+2025-04,BB-COF-041,House Blend Coffee Beans 250g,Coffee & Tea,27
+2025-04,BB-COF-043,Single Origin Ethiopia 250g,Coffee & Tea,14
+2025-04,BB-COF-045,Decaf Swiss Water 250g,Coffee & Tea,6
+2025-04,BB-COF-052,Loose Leaf Jasmine Green 100g,Coffee & Tea,10
+2025-04,BB-COF-055,Cold Brew Filter Bags (8 pack),Coffee & Tea,0
+2025-04,BB-FRG-061,Soy Candle Fig & Cedar 220g,Home Fragrance,15
+2025-04,BB-FRG-064,Soy Candle Sea Salt 220g,Home Fragrance,10
+2025-04,BB-FRG-068,Reed Diffuser Neroli 200ml,Home Fragrance,8
+2025-04,BB-FRG-072,Room Mist Lemongrass 100ml,Home Fragrance,5
+2025-04,BB-HOM-081,Linen Tea Towel Set of 2,Homeware,5
+2025-04,BB-HOM-084,Oak Serving Board Small,Homeware,4
+2025-04,BB-HOM-087,Woven Storage Basket Medium,Homeware,3
+2025-04,BB-HOM-092,Ribbed Glass Vase 22cm,Homeware,5
+2025-04,BB-GFT-101,Coffee Lover Gift Box,Gift Sets,7
+2025-04,BB-GFT-104,Calm Evening Gift Box,Gift Sets,3
+2025-04,BB-GFT-107,New Home Gift Box,Gift Sets,3
+2025-04,BB-STA-031,Recycled Kraft Notebook A5,Stationery,3
+2025-04,BB-STA-034,Refillable Brass Pen,Stationery,2
+2025-04,BB-STA-037,Linen-Bound Recipe Journal,Stationery,0
+2025-05,BB-DRK-011,Stoneware Latte Cup 280ml,Drinkware,9
+2025-05,BB-DRK-014,Double-Walled Stoneware Mug 350ml,Drinkware,8
+2025-05,BB-DRK-017,Borosilicate Glass Tumbler 400ml,Drinkware,9
+2025-05,BB-DRK-021,Insulated Steel Travel Flask 500ml,Drinkware,8
+2025-05,BB-DRK-026,Ceramic Pour-Over Set,Drinkware,4
+2025-05,BB-COF-041,House Blend Coffee Beans 250g,Coffee & Tea,34
+2025-05,BB-COF-043,Single Origin Ethiopia 250g,Coffee & Tea,19
+2025-05,BB-COF-045,Decaf Swiss Water 250g,Coffee & Tea,5
+2025-05,BB-COF-052,Loose Leaf Jasmine Green 100g,Coffee & Tea,8
+2025-05,BB-COF-055,Cold Brew Filter Bags (8 pack),Coffee & Tea,0
+2025-05,BB-FRG-061,Soy Candle Fig & Cedar 220g,Home Fragrance,13
+2025-05,BB-FRG-064,Soy Candle Sea Salt 220g,Home Fragrance,8
+2025-05,BB-FRG-068,Reed Diffuser Neroli 200ml,Home Fragrance,6
+2025-05,BB-FRG-072,Room Mist Lemongrass 100ml,Home Fragrance,5
+2025-05,BB-HOM-081,Linen Tea Towel Set of 2,Homeware,5
+2025-05,BB-HOM-084,Oak Serving Board Small,Homeware,4
+2025-05,BB-HOM-087,Woven Storage Basket Medium,Homeware,2
+2025-05,BB-HOM-092,Ribbed Glass Vase 22cm,Homeware,5
+2025-05,BB-GFT-101,Coffee Lover Gift Box,Gift Sets,7
+2025-05,BB-GFT-104,Calm Evening Gift Box,Gift Sets,4
+2025-05,BB-GFT-107,New Home Gift Box,Gift Sets,3
+2025-05,BB-STA-031,Recycled Kraft Notebook A5,Stationery,2
+2025-05,BB-STA-034,Refillable Brass Pen,Stationery,2
+2025-05,BB-STA-037,Linen-Bound Recipe Journal,Stationery,0
+2025-06,BB-DRK-011,Stoneware Latte Cup 280ml,Drinkware,7
+2025-06,BB-DRK-014,Double-Walled Stoneware Mug 350ml,Drinkware,12
+2025-06,BB-DRK-017,Borosilicate Glass Tumbler 400ml,Drinkware,15
+2025-06,BB-DRK-021,Insulated Steel Travel Flask 500ml,Drinkware,8
+2025-06,BB-DRK-026,Ceramic Pour-Over Set,Drinkware,3
+2025-06,BB-COF-041,House Blend Coffee Beans 250g,Coffee & Tea,36
+2025-06,BB-COF-043,Single Origin Ethiopia 250g,Coffee & Tea,16
+2025-06,BB-COF-045,Decaf Swiss Water 250g,Coffee & Tea,5
+2025-06,BB-COF-052,Loose Leaf Jasmine Green 100g,Coffee & Tea,8
+2025-06,BB-COF-055,Cold Brew Filter Bags (8 pack),Coffee & Tea,0
+2025-06,BB-FRG-061,Soy Candle Fig & Cedar 220g,Home Fragrance,13
+2025-06,BB-FRG-064,Soy Candle Sea Salt 220g,Home Fragrance,8
+2025-06,BB-FRG-068,Reed Diffuser Neroli 200ml,Home Fragrance,8
+2025-06,BB-FRG-072,Room Mist Lemongrass 100ml,Home Fragrance,4
+2025-06,BB-HOM-081,Linen Tea Towel Set of 2,Homeware,6
+2025-06,BB-HOM-084,Oak Serving Board Small,Homeware,3
+2025-06,BB-HOM-087,Woven Storage Basket Medium,Homeware,4
+2025-06,BB-HOM-092,Ribbed Glass Vase 22cm,Homeware,5
+2025-06,BB-GFT-101,Coffee Lover Gift Box,Gift Sets,5
+2025-06,BB-GFT-104,Calm Evening Gift Box,Gift Sets,5
+2025-06,BB-GFT-107,New Home Gift Box,Gift Sets,4
+2025-06,BB-STA-031,Recycled Kraft Notebook A5,Stationery,2
+2025-06,BB-STA-034,Refillable Brass Pen,Stationery,3
+2025-06,BB-STA-037,Linen-Bound Recipe Journal,Stationery,0
+2025-07,BB-DRK-011,Stoneware Latte Cup 280ml,Drinkware,8
+2025-07,BB-DRK-014,Double-Walled Stoneware Mug 350ml,Drinkware,11
+2025-07,BB-DRK-017,Borosilicate Glass Tumbler 400ml,Drinkware,12
+2025-07,BB-DRK-021,Insulated Steel Travel Flask 500ml,Drinkware,6
+2025-07,BB-DRK-026,Ceramic Pour-Over Set,Drinkware,5
+2025-07,BB-COF-041,House Blend Coffee Beans 250g,Coffee & Tea,20
+2025-07,BB-COF-043,Single Origin Ethiopia 250g,Coffee & Tea,15
+2025-07,BB-COF-045,Decaf Swiss Water 250g,Coffee & Tea,5
+2025-07,BB-COF-052,Loose Leaf Jasmine Green 100g,Coffee & Tea,7
+2025-07,BB-COF-055,Cold Brew Filter Bags (8 pack),Coffee & Tea,0
+2025-07,BB-FRG-061,Soy Candle Fig & Cedar 220g,Home Fragrance,9
+2025-07,BB-FRG-064,Soy Candle Sea Salt 220g,Home Fragrance,8
+2025-07,BB-FRG-068,Reed Diffuser Neroli 200ml,Home Fragrance,6
+2025-07,BB-FRG-072,Room Mist Lemongrass 100ml,Home Fragrance,3
+2025-07,BB-HOM-081,Linen Tea Towel Set of 2,Homeware,5
+2025-07,BB-HOM-084,Oak Serving Board Small,Homeware,5
+2025-07,BB-HOM-087,Woven Storage Basket Medium,Homeware,2
+2025-07,BB-HOM-092,Ribbed Glass Vase 22cm,Homeware,3
+2025-07,BB-GFT-101,Coffee Lover Gift Box,Gift Sets,5
+2025-07,BB-GFT-104,Calm Evening Gift Box,Gift Sets,3
+2025-07,BB-GFT-107,New Home Gift Box,Gift Sets,3
+2025-07,BB-STA-031,Recycled Kraft Notebook A5,Stationery,2
+2025-07,BB-STA-034,Refillable Brass Pen,Stationery,2
+2025-07,BB-STA-037,Linen-Bound Recipe Journal,Stationery,0
+2025-08,BB-DRK-011,Stoneware Latte Cup 280ml,Drinkware,9
+2025-08,BB-DRK-014,Double-Walled Stoneware Mug 350ml,Drinkware,10
+2025-08,BB-DRK-017,Borosilicate Glass Tumbler 400ml,Drinkware,11
+2025-08,BB-DRK-021,Insulated Steel Travel Flask 500ml,Drinkware,5
+2025-08,BB-DRK-026,Ceramic Pour-Over Set,Drinkware,4
+2025-08,BB-COF-041,House Blend Coffee Beans 250g,Coffee & Tea,32
+2025-08,BB-COF-043,Single Origin Ethiopia 250g,Coffee & Tea,14
+2025-08,BB-COF-045,Decaf Swiss Water 250g,Coffee & Tea,8
+2025-08,BB-COF-052,Loose Leaf Jasmine Green 100g,Coffee & Tea,10
+2025-08,BB-COF-055,Cold Brew Filter Bags (8 pack),Coffee & Tea,0
+2025-08,BB-FRG-061,Soy Candle Fig & Cedar 220g,Home Fragrance,16
+2025-08,BB-FRG-064,Soy Candle Sea Salt 220g,Home Fragrance,12
+2025-08,BB-FRG-068,Reed Diffuser Neroli 200ml,Home Fragrance,6
+2025-08,BB-FRG-072,Room Mist Lemongrass 100ml,Home Fragrance,5
+2025-08,BB-HOM-081,Linen Tea Towel Set of 2,Homeware,5
+2025-08,BB-HOM-084,Oak Serving Board Small,Homeware,4
+2025-08,BB-HOM-087,Woven Storage Basket Medium,Homeware,3
+2025-08,BB-HOM-092,Ribbed Glass Vase 22cm,Homeware,3
+2025-08,BB-GFT-101,Coffee Lover Gift Box,Gift Sets,7
+2025-08,BB-GFT-104,Calm Evening Gift Box,Gift Sets,6
+2025-08,BB-GFT-107,New Home Gift Box,Gift Sets,3
+2025-08,BB-STA-031,Recycled Kraft Notebook A5,Stationery,2
+2025-08,BB-STA-034,Refillable Brass Pen,Stationery,2
+2025-08,BB-STA-037,Linen-Bound Recipe Journal,Stationery,0
+2025-09,BB-DRK-011,Stoneware Latte Cup 280ml,Drinkware,8
+2025-09,BB-DRK-014,Double-Walled Stoneware Mug 350ml,Drinkware,12
+2025-09,BB-DRK-017,Borosilicate Glass Tumbler 400ml,Drinkware,14
+2025-09,BB-DRK-021,Insulated Steel Travel Flask 500ml,Drinkware,5
+2025-09,BB-DRK-026,Ceramic Pour-Over Set,Drinkware,2
+2025-09,BB-COF-041,House Blend Coffee Beans 250g,Coffee & Tea,29
+2025-09,BB-COF-043,Single Origin Ethiopia 250g,Coffee & Tea,19
+2025-09,BB-COF-045,Decaf Swiss Water 250g,Coffee & Tea,6
+2025-09,BB-COF-052,Loose Leaf Jasmine Green 100g,Coffee & Tea,6
+2025-09,BB-COF-055,Cold Brew Filter Bags (8 pack),Coffee & Tea,0
+2025-09,BB-FRG-061,Soy Candle Fig & Cedar 220g,Home Fragrance,8
+2025-09,BB-FRG-064,Soy Candle Sea Salt 220g,Home Fragrance,12
+2025-09,BB-FRG-068,Reed Diffuser Neroli 200ml,Home Fragrance,5
+2025-09,BB-FRG-072,Room Mist Lemongrass 100ml,Home Fragrance,5
+2025-09,BB-HOM-081,Linen Tea Towel Set of 2,Homeware,7
+2025-09,BB-HOM-084,Oak Serving Board Small,Homeware,3
+2025-09,BB-HOM-087,Woven Storage Basket Medium,Homeware,3
+2025-09,BB-HOM-092,Ribbed Glass Vase 22cm,Homeware,4
+2025-09,BB-GFT-101,Coffee Lover Gift Box,Gift Sets,6
+2025-09,BB-GFT-104,Calm Evening Gift Box,Gift Sets,5
+2025-09,BB-GFT-107,New Home Gift Box,Gift Sets,4
+2025-09,BB-STA-031,Recycled Kraft Notebook A5,Stationery,3
+2025-09,BB-STA-034,Refillable Brass Pen,Stationery,1
+2025-09,BB-STA-037,Linen-Bound Recipe Journal,Stationery,0
+2025-10,BB-DRK-011,Stoneware Latte Cup 280ml,Drinkware,9
+2025-10,BB-DRK-014,Double-Walled Stoneware Mug 350ml,Drinkware,9
+2025-10,BB-DRK-017,Borosilicate Glass Tumbler 400ml,Drinkware,16
+2025-10,BB-DRK-021,Insulated Steel Travel Flask 500ml,Drinkware,6
+2025-10,BB-DRK-026,Ceramic Pour-Over Set,Drinkware,5
+2025-10,BB-COF-041,House Blend Coffee Beans 250g,Coffee & Tea,27
+2025-10,BB-COF-043,Single Origin Ethiopia 250g,Coffee & Tea,12
+2025-10,BB-COF-045,Decaf Swiss Water 250g,Coffee & Tea,5
+2025-10,BB-COF-052,Loose Leaf Jasmine Green 100g,Coffee & Tea,9
+2025-10,BB-COF-055,Cold Brew Filter Bags (8 pack),Coffee & Tea,0
+2025-10,BB-FRG-061,Soy Candle Fig & Cedar 220g,Home Fragrance,11
+2025-10,BB-FRG-064,Soy Candle Sea Salt 220g,Home Fragrance,13
+2025-10,BB-FRG-068,Reed Diffuser Neroli 200ml,Home Fragrance,6
+2025-10,BB-FRG-072,Room Mist Lemongrass 100ml,Home Fragrance,7
+2025-10,BB-HOM-081,Linen Tea Towel Set of 2,Homeware,7
+2025-10,BB-HOM-084,Oak Serving Board Small,Homeware,5
+2025-10,BB-HOM-087,Woven Storage Basket Medium,Homeware,3
+2025-10,BB-HOM-092,Ribbed Glass Vase 22cm,Homeware,5
+2025-10,BB-GFT-101,Coffee Lover Gift Box,Gift Sets,8
+2025-10,BB-GFT-104,Calm Evening Gift Box,Gift Sets,5
+2025-10,BB-GFT-107,New Home Gift Box,Gift Sets,6
+2025-10,BB-STA-031,Recycled Kraft Notebook A5,Stationery,1
+2025-10,BB-STA-034,Refillable Brass Pen,Stationery,2
+2025-10,BB-STA-037,Linen-Bound Recipe Journal,Stationery,0
+2025-11,BB-DRK-011,Stoneware Latte Cup 280ml,Drinkware,9
+2025-11,BB-DRK-014,Double-Walled Stoneware Mug 350ml,Drinkware,18
+2025-11,BB-DRK-017,Borosilicate Glass Tumbler 400ml,Drinkware,27
+2025-11,BB-DRK-021,Insulated Steel Travel Flask 500ml,Drinkware,8
+2025-11,BB-DRK-026,Ceramic Pour-Over Set,Drinkware,4
+2025-11,BB-COF-041,House Blend Coffee Beans 250g,Coffee & Tea,42
+2025-11,BB-COF-043,Single Origin Ethiopia 250g,Coffee & Tea,20
+2025-11,BB-COF-045,Decaf Swiss Water 250g,Coffee & Tea,8
+2025-11,BB-COF-052,Loose Leaf Jasmine Green 100g,Coffee & Tea,9
+2025-11,BB-COF-055,Cold Brew Filter Bags (8 pack),Coffee & Tea,0
+2025-11,BB-FRG-061,Soy Candle Fig & Cedar 220g,Home Fragrance,16
+2025-11,BB-FRG-064,Soy Candle Sea Salt 220g,Home Fragrance,14
+2025-11,BB-FRG-068,Reed Diffuser Neroli 200ml,Home Fragrance,12
+2025-11,BB-FRG-072,Room Mist Lemongrass 100ml,Home Fragrance,7
+2025-11,BB-HOM-081,Linen Tea Towel Set of 2,Homeware,8
+2025-11,BB-HOM-084,Oak Serving Board Small,Homeware,3
+2025-11,BB-HOM-087,Woven Storage Basket Medium,Homeware,4
+2025-11,BB-HOM-092,Ribbed Glass Vase 22cm,Homeware,4
+2025-11,BB-GFT-101,Coffee Lover Gift Box,Gift Sets,12
+2025-11,BB-GFT-104,Calm Evening Gift Box,Gift Sets,7
+2025-11,BB-GFT-107,New Home Gift Box,Gift Sets,8
+2025-11,BB-STA-031,Recycled Kraft Notebook A5,Stationery,3
+2025-11,BB-STA-034,Refillable Brass Pen,Stationery,3
+2025-11,BB-STA-037,Linen-Bound Recipe Journal,Stationery,0
+2025-12,BB-DRK-011,Stoneware Latte Cup 280ml,Drinkware,10
+2025-12,BB-DRK-014,Double-Walled Stoneware Mug 350ml,Drinkware,26
+2025-12,BB-DRK-017,Borosilicate Glass Tumbler 400ml,Drinkware,27
+2025-12,BB-DRK-021,Insulated Steel Travel Flask 500ml,Drinkware,9
+2025-12,BB-DRK-026,Ceramic Pour-Over Set,Drinkware,6
+2025-12,BB-COF-041,House Blend Coffee Beans 250g,Coffee & Tea,33
+2025-12,BB-COF-043,Single Origin Ethiopia 250g,Coffee & Tea,20
+2025-12,BB-COF-045,Decaf Swiss Water 250g,Coffee & Tea,7
+2025-12,BB-COF-052,Loose Leaf Jasmine Green 100g,Coffee & Tea,9
+2025-12,BB-COF-055,Cold Brew Filter Bags (8 pack),Coffee & Tea,0
+2025-12,BB-FRG-061,Soy Candle Fig & Cedar 220g,Home Fragrance,23
+2025-12,BB-FRG-064,Soy Candle Sea Salt 220g,Home Fragrance,19
+2025-12,BB-FRG-068,Reed Diffuser Neroli 200ml,Home Fragrance,10
+2025-12,BB-FRG-072,Room Mist Lemongrass 100ml,Home Fragrance,11
+2025-12,BB-HOM-081,Linen Tea Towel Set of 2,Homeware,7
+2025-12,BB-HOM-084,Oak Serving Board Small,Homeware,7
+2025-12,BB-HOM-087,Woven Storage Basket Medium,Homeware,3
+2025-12,BB-HOM-092,Ribbed Glass Vase 22cm,Homeware,7
+2025-12,BB-GFT-101,Coffee Lover Gift Box,Gift Sets,10
+2025-12,BB-GFT-104,Calm Evening Gift Box,Gift Sets,9
+2025-12,BB-GFT-107,New Home Gift Box,Gift Sets,8
+2025-12,BB-STA-031,Recycled Kraft Notebook A5,Stationery,4
+2025-12,BB-STA-034,Refillable Brass Pen,Stationery,2
+2025-12,BB-STA-037,Linen-Bound Recipe Journal,Stationery,0
+2026-01,BB-DRK-011,Stoneware Latte Cup 280ml,Drinkware,10
+2026-01,BB-DRK-014,Double-Walled Stoneware Mug 350ml,Drinkware,10
+2026-01,BB-DRK-017,Borosilicate Glass Tumbler 400ml,Drinkware,16
+2026-01,BB-DRK-021,Insulated Steel Travel Flask 500ml,Drinkware,6
+2026-01,BB-DRK-026,Ceramic Pour-Over Set,Drinkware,3
+2026-01,BB-COF-041,House Blend Coffee Beans 250g,Coffee & Tea,21
+2026-01,BB-COF-043,Single Origin Ethiopia 250g,Coffee & Tea,16
+2026-01,BB-COF-045,Decaf Swiss Water 250g,Coffee & Tea,7
+2026-01,BB-COF-052,Loose Leaf Jasmine Green 100g,Coffee & Tea,7
+2026-01,BB-COF-055,Cold Brew Filter Bags (8 pack),Coffee & Tea,0
+2026-01,BB-FRG-061,Soy Candle Fig & Cedar 220g,Home Fragrance,10
+2026-01,BB-FRG-064,Soy Candle Sea Salt 220g,Home Fragrance,8
+2026-01,BB-FRG-068,Reed Diffuser Neroli 200ml,Home Fragrance,8
+2026-01,BB-FRG-072,Room Mist Lemongrass 100ml,Home Fragrance,5
+2026-01,BB-HOM-081,Linen Tea Towel Set of 2,Homeware,5
+2026-01,BB-HOM-084,Oak Serving Board Small,Homeware,4
+2026-01,BB-HOM-087,Woven Storage Basket Medium,Homeware,3
+2026-01,BB-HOM-092,Ribbed Glass Vase 22cm,Homeware,3
+2026-01,BB-GFT-101,Coffee Lover Gift Box,Gift Sets,5
+2026-01,BB-GFT-104,Calm Evening Gift Box,Gift Sets,4
+2026-01,BB-GFT-107,New Home Gift Box,Gift Sets,3
+2026-01,BB-STA-031,Recycled Kraft Notebook A5,Stationery,3
+2026-01,BB-STA-034,Refillable Brass Pen,Stationery,3
+2026-01,BB-STA-037,Linen-Bound Recipe Journal,Stationery,0
+2026-02,BB-DRK-011,Stoneware Latte Cup 280ml,Drinkware,7
+2026-02,BB-DRK-014,Double-Walled Stoneware Mug 350ml,Drinkware,11
+2026-02,BB-DRK-017,Borosilicate Glass Tumbler 400ml,Drinkware,17
+2026-02,BB-DRK-021,Insulated Steel Travel Flask 500ml,Drinkware,5
+2026-02,BB-DRK-026,Ceramic Pour-Over Set,Drinkware,3
+2026-02,BB-COF-041,House Blend Coffee Beans 250g,Coffee & Tea,20
+2026-02,BB-COF-043,Single Origin Ethiopia 250g,Coffee & Tea,16
+2026-02,BB-COF-045,Decaf Swiss Water 250g,Coffee & Tea,4
+2026-02,BB-COF-052,Loose Leaf Jasmine Green 100g,Coffee & Tea,6
+2026-02,BB-COF-055,Cold Brew Filter Bags (8 pack),Coffee & Tea,0
+2026-02,BB-FRG-061,Soy Candle Fig & Cedar 220g,Home Fragrance,13
+2026-02,BB-FRG-064,Soy Candle Sea Salt 220g,Home Fragrance,6
+2026-02,BB-FRG-068,Reed Diffuser Neroli 200ml,Home Fragrance,5
+2026-02,BB-FRG-072,Room Mist Lemongrass 100ml,Home Fragrance,4
+2026-02,BB-HOM-081,Linen Tea Towel Set of 2,Homeware,6
+2026-02,BB-HOM-084,Oak Serving Board Small,Homeware,4
+2026-02,BB-HOM-087,Woven Storage Basket Medium,Homeware,4
+2026-02,BB-HOM-092,Ribbed Glass Vase 22cm,Homeware,4
+2026-02,BB-GFT-101,Coffee Lover Gift Box,Gift Sets,4
+2026-02,BB-GFT-104,Calm Evening Gift Box,Gift Sets,3
+2026-02,BB-GFT-107,New Home Gift Box,Gift Sets,3
+2026-02,BB-STA-031,Recycled Kraft Notebook A5,Stationery,3
+2026-02,BB-STA-034,Refillable Brass Pen,Stationery,2
+2026-02,BB-STA-037,Linen-Bound Recipe Journal,Stationery,0
+2026-03,BB-DRK-011,Stoneware Latte Cup 280ml,Drinkware,9
+2026-03,BB-DRK-014,Double-Walled Stoneware Mug 350ml,Drinkware,14
+2026-03,BB-DRK-017,Borosilicate Glass Tumbler 400ml,Drinkware,18
+2026-03,BB-DRK-021,Insulated Steel Travel Flask 500ml,Drinkware,6
+2026-03,BB-DRK-026,Ceramic Pour-Over Set,Drinkware,4
+2026-03,BB-COF-041,House Blend Coffee Beans 250g,Coffee & Tea,28
+2026-03,BB-COF-043,Single Origin Ethiopia 250g,Coffee & Tea,16
+2026-03,BB-COF-045,Decaf Swiss Water 250g,Coffee & Tea,5
+2026-03,BB-COF-052,Loose Leaf Jasmine Green 100g,Coffee & Tea,5
+2026-03,BB-COF-055,Cold Brew Filter Bags (8 pack),Coffee & Tea,0
+2026-03,BB-FRG-061,Soy Candle Fig & Cedar 220g,Home Fragrance,9
+2026-03,BB-FRG-064,Soy Candle Sea Salt 220g,Home Fragrance,9
+2026-03,BB-FRG-068,Reed Diffuser Neroli 200ml,Home Fragrance,7
+2026-03,BB-FRG-072,Room Mist Lemongrass 100ml,Home Fragrance,5
+2026-03,BB-HOM-081,Linen Tea Towel Set of 2,Homeware,5
+2026-03,BB-HOM-084,Oak Serving Board Small,Homeware,5
+2026-03,BB-HOM-087,Woven Storage Basket Medium,Homeware,3
+2026-03,BB-HOM-092,Ribbed Glass Vase 22cm,Homeware,5
+2026-03,BB-GFT-101,Coffee Lover Gift Box,Gift Sets,7
+2026-03,BB-GFT-104,Calm Evening Gift Box,Gift Sets,4
+2026-03,BB-GFT-107,New Home Gift Box,Gift Sets,3
+2026-03,BB-STA-031,Recycled Kraft Notebook A5,Stationery,3
+2026-03,BB-STA-034,Refillable Brass Pen,Stationery,2
+2026-03,BB-STA-037,Linen-Bound Recipe Journal,Stationery,0
+2026-04,BB-DRK-011,Stoneware Latte Cup 280ml,Drinkware,10
+2026-04,BB-DRK-014,Double-Walled Stoneware Mug 350ml,Drinkware,11
+2026-04,BB-DRK-017,Borosilicate Glass Tumbler 400ml,Drinkware,9
+2026-04,BB-DRK-021,Insulated Steel Travel Flask 500ml,Drinkware,6
+2026-04,BB-DRK-026,Ceramic Pour-Over Set,Drinkware,4
+2026-04,BB-COF-041,House Blend Coffee Beans 250g,Coffee & Tea,26
+2026-04,BB-COF-043,Single Origin Ethiopia 250g,Coffee & Tea,18
+2026-04,BB-COF-045,Decaf Swiss Water 250g,Coffee & Tea,7
+2026-04,BB-COF-052,Loose Leaf Jasmine Green 100g,Coffee & Tea,8
+2026-04,BB-COF-055,Cold Brew Filter Bags (8 pack),Coffee & Tea,0
+2026-04,BB-FRG-061,Soy Candle Fig & Cedar 220g,Home Fragrance,15
+2026-04,BB-FRG-064,Soy Candle Sea Salt 220g,Home Fragrance,11
+2026-04,BB-FRG-068,Reed Diffuser Neroli 200ml,Home Fragrance,5
+2026-04,BB-FRG-072,Room Mist Lemongrass 100ml,Home Fragrance,5
+2026-04,BB-HOM-081,Linen Tea Towel Set of 2,Homeware,5
+2026-04,BB-HOM-084,Oak Serving Board Small,Homeware,4
+2026-04,BB-HOM-087,Woven Storage Basket Medium,Homeware,3
+2026-04,BB-HOM-092,Ribbed Glass Vase 22cm,Homeware,5
+2026-04,BB-GFT-101,Coffee Lover Gift Box,Gift Sets,5
+2026-04,BB-GFT-104,Calm Evening Gift Box,Gift Sets,4
+2026-04,BB-GFT-107,New Home Gift Box,Gift Sets,4
+2026-04,BB-STA-031,Recycled Kraft Notebook A5,Stationery,3
+2026-04,BB-STA-034,Refillable Brass Pen,Stationery,2
+2026-04,BB-STA-037,Linen-Bound Recipe Journal,Stationery,0
+2026-05,BB-DRK-011,Stoneware Latte Cup 280ml,Drinkware,7
+2026-05,BB-DRK-014,Double-Walled Stoneware Mug 350ml,Drinkware,12
+2026-05,BB-DRK-017,Borosilicate Glass Tumbler 400ml,Drinkware,11
+2026-05,BB-DRK-021,Insulated Steel Travel Flask 500ml,Drinkware,8
+2026-05,BB-DRK-026,Ceramic Pour-Over Set,Drinkware,5
+2026-05,BB-COF-041,House Blend Coffee Beans 250g,Coffee & Tea,30
+2026-05,BB-COF-043,Single Origin Ethiopia 250g,Coffee & Tea,19
+2026-05,BB-COF-045,Decaf Swiss Water 250g,Coffee & Tea,5
+2026-05,BB-COF-052,Loose Leaf Jasmine Green 100g,Coffee & Tea,9
+2026-05,BB-COF-055,Cold Brew Filter Bags (8 pack),Coffee & Tea,12
+2026-05,BB-FRG-061,Soy Candle Fig & Cedar 220g,Home Fragrance,15
+2026-05,BB-FRG-064,Soy Candle Sea Salt 220g,Home Fragrance,14
+2026-05,BB-FRG-068,Reed Diffuser Neroli 200ml,Home Fragrance,6
+2026-05,BB-FRG-072,Room Mist Lemongrass 100ml,Home Fragrance,4
+2026-05,BB-HOM-081,Linen Tea Towel Set of 2,Homeware,6
+2026-05,BB-HOM-084,Oak Serving Board Small,Homeware,5
+2026-05,BB-HOM-087,Woven Storage Basket Medium,Homeware,3
+2026-05,BB-HOM-092,Ribbed Glass Vase 22cm,Homeware,6
+2026-05,BB-GFT-101,Coffee Lover Gift Box,Gift Sets,6
+2026-05,BB-GFT-104,Calm Evening Gift Box,Gift Sets,5
+2026-05,BB-GFT-107,New Home Gift Box,Gift Sets,4
+2026-05,BB-STA-031,Recycled Kraft Notebook A5,Stationery,2
+2026-05,BB-STA-034,Refillable Brass Pen,Stationery,2
+2026-05,BB-STA-037,Linen-Bound Recipe Journal,Stationery,3
+2026-06,BB-DRK-011,Stoneware Latte Cup 280ml,Drinkware,9
+2026-06,BB-DRK-014,Double-Walled Stoneware Mug 350ml,Drinkware,10
+2026-06,BB-DRK-017,Borosilicate Glass Tumbler 400ml,Drinkware,15
+2026-06,BB-DRK-021,Insulated Steel Travel Flask 500ml,Drinkware,4
+2026-06,BB-DRK-026,Ceramic Pour-Over Set,Drinkware,5
+2026-06,BB-COF-041,House Blend Coffee Beans 250g,Coffee & Tea,19
+2026-06,BB-COF-043,Single Origin Ethiopia 250g,Coffee & Tea,14
+2026-06,BB-COF-045,Decaf Swiss Water 250g,Coffee & Tea,6
+2026-06,BB-COF-052,Loose Leaf Jasmine Green 100g,Coffee & Tea,8
+2026-06,BB-COF-055,Cold Brew Filter Bags (8 pack),Coffee & Tea,14
+2026-06,BB-FRG-061,Soy Candle Fig & Cedar 220g,Home Fragrance,12
+2026-06,BB-FRG-064,Soy Candle Sea Salt 220g,Home Fragrance,9
+2026-06,BB-FRG-068,Reed Diffuser Neroli 200ml,Home Fragrance,5
+2026-06,BB-FRG-072,Room Mist Lemongrass 100ml,Home Fragrance,0
+2026-06,BB-HOM-081,Linen Tea Towel Set of 2,Homeware,7
+2026-06,BB-HOM-084,Oak Serving Board Small,Homeware,5
+2026-06,BB-HOM-087,Woven Storage Basket Medium,Homeware,0
+2026-06,BB-HOM-092,Ribbed Glass Vase 22cm,Homeware,4
+2026-06,BB-GFT-101,Coffee Lover Gift Box,Gift Sets,4
+2026-06,BB-GFT-104,Calm Evening Gift Box,Gift Sets,6
+2026-06,BB-GFT-107,New Home Gift Box,Gift Sets,4
+2026-06,BB-STA-031,Recycled Kraft Notebook A5,Stationery,3
+2026-06,BB-STA-034,Refillable Brass Pen,Stationery,0
+2026-06,BB-STA-037,Linen-Bound Recipe Journal,Stationery,3
+2026-07,BB-DRK-011,Stoneware Latte Cup 280ml,Drinkware,9
+2026-07,BB-DRK-014,Double-Walled Stoneware Mug 350ml,Drinkware,11
+2026-07,BB-DRK-017,Borosilicate Glass Tumbler 400ml,Drinkware,13
+2026-07,BB-DRK-021,Insulated Steel Travel Flask 500ml,Drinkware,6
+2026-07,BB-DRK-026,Ceramic Pour-Over Set,Drinkware,4
+2026-07,BB-COF-041,House Blend Coffee Beans 250g,Coffee & Tea,29
+2026-07,BB-COF-043,Single Origin Ethiopia 250g,Coffee & Tea,13
+2026-07,BB-COF-045,Decaf Swiss Water 250g,Coffee & Tea,5
+2026-07,BB-COF-052,Loose Leaf Jasmine Green 100g,Coffee & Tea,6
+2026-07,BB-COF-055,Cold Brew Filter Bags (8 pack),Coffee & Tea,11
+2026-07,BB-FRG-061,Soy Candle Fig & Cedar 220g,Home Fragrance,14
+2026-07,BB-FRG-064,Soy Candle Sea Salt 220g,Home Fragrance,11
+2026-07,BB-FRG-068,Reed Diffuser Neroli 200ml,Home Fragrance,4
+2026-07,BB-FRG-072,Room Mist Lemongrass 100ml,Home Fragrance,0
+2026-07,BB-HOM-081,Linen Tea Towel Set of 2,Homeware,6
+2026-07,BB-HOM-084,Oak Serving Board Small,Homeware,4
+2026-07,BB-HOM-087,Woven Storage Basket Medium,Homeware,0
+2026-07,BB-HOM-092,Ribbed Glass Vase 22cm,Homeware,3
+2026-07,BB-GFT-101,Coffee Lover Gift Box,Gift Sets,5
+2026-07,BB-GFT-104,Calm Evening Gift Box,Gift Sets,3
+2026-07,BB-GFT-107,New Home Gift Box,Gift Sets,4
+2026-07,BB-STA-031,Recycled Kraft Notebook A5,Stationery,3
+2026-07,BB-STA-034,Refillable Brass Pen,Stationery,0
+2026-07,BB-STA-037,Linen-Bound Recipe Journal,Stationery,4
+2026-08,BB-DRK-011,Stoneware Latte Cup 280ml,Drinkware,5
+2026-08,BB-DRK-014,Double-Walled Stoneware Mug 350ml,Drinkware,13
+2026-08,BB-DRK-017,Borosilicate Glass Tumbler 400ml,Drinkware,16
+2026-08,BB-DRK-021,Insulated Steel Travel Flask 500ml,Drinkware,7
+2026-08,BB-DRK-026,Ceramic Pour-Over Set,Drinkware,4
+2026-08,BB-COF-041,House Blend Coffee Beans 250g,Coffee & Tea,24
+2026-08,BB-COF-043,Single Origin Ethiopia 250g,Coffee & Tea,14
+2026-08,BB-COF-045,Decaf Swiss Water 250g,Coffee & Tea,7
+2026-08,BB-COF-052,Loose Leaf Jasmine Green 100g,Coffee & Tea,6
+2026-08,BB-COF-055,Cold Brew Filter Bags (8 pack),Coffee & Tea,9
+2026-08,BB-FRG-061,Soy Candle Fig & Cedar 220g,Home Fragrance,16
+2026-08,BB-FRG-064,Soy Candle Sea Salt 220g,Home Fragrance,13
+2026-08,BB-FRG-068,Reed Diffuser Neroli 200ml,Home Fragrance,5
+2026-08,BB-FRG-072,Room Mist Lemongrass 100ml,Home Fragrance,0
+2026-08,BB-HOM-081,Linen Tea Towel Set of 2,Homeware,5
+2026-08,BB-HOM-084,Oak Serving Board Small,Homeware,3
+2026-08,BB-HOM-087,Woven Storage Basket Medium,Homeware,0
+2026-08,BB-HOM-092,Ribbed Glass Vase 22cm,Homeware,5
+2026-08,BB-GFT-101,Coffee Lover Gift Box,Gift Sets,6
+2026-08,BB-GFT-104,Calm Evening Gift Box,Gift Sets,5
+2026-08,BB-GFT-107,New Home Gift Box,Gift Sets,5
+2026-08,BB-STA-031,Recycled Kraft Notebook A5,Stationery,2
+2026-08,BB-STA-034,Refillable Brass Pen,Stationery,0
+2026-08,BB-STA-037,Linen-Bound Recipe Journal,Stationery,5

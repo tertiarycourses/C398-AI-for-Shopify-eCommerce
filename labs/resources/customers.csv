@@ -1,0 +1,61 @@
+customer_id,full_name,email,phone,postal_code,join_date,loyalty_tier,marketing_optin
+CUS0001,Joel Yeo,joel.yeo89@yahoo.com.sg,+65 98581354,709781,2025-05-13,Bronze,yes
+CUS0002,Hui Shan Goh,hui.shan.goh7@gmail.com,+65 98002717,448740,2025-02-03,Bronze,yes
+CUS0003,Mei Ling Hassan,mei.ling.hassan20@hotmail.com,+65 93190398,518422,2024-08-28,Silver,no
+CUS0004,Rashid Goh,rashid.goh58@outlook.com,+65 93075374,457323,2023-12-16,Silver,no
+CUS0005,Chloe Low,chloe.low17@outlook.com,+65 96326329,646747,2024-05-21,Bronze,yes
+CUS0006,Kenneth Ong,kenneth.ong59@yahoo.com.sg,+65 98476030,706858,2024-08-22,Silver,no
+CUS0007,Aisha Yeo,aisha.yeo89@hotmail.com,+65 98057478,354726,2024-05-26,Silver,yes
+CUS0008,Priya Menon,priya.menon26@yahoo.com.sg,+65 96205766,326476,2023-02-05,Silver,yes
+CUS0009,Terence Goh,terence.goh62@hotmail.com,+65 99524992,636132,2024-02-24,Gold,no
+CUS0010,Daniel Sharma,daniel.sharma98@gmail.com,+65 93018698,401556,2024-04-25,Silver,no
+CUS0011,Jun Hao Lim,jun.hao.lim47@yahoo.com.sg,+65 97328832,795662,2024-05-12,Gold,no
+CUS0012,Wei Ming Lim,wei.ming.lim54@outlook.com,+65 96413461,278499,2024-03-30,Silver,yes
+CUS0013,Adeline Yeo,adeline.yeo69@hotmail.com,+65 99604033,277936,2023-06-30,Bronze,yes
+CUS0014,Joel Sharma,joel.sharma61@hotmail.com,+65 95075244,414932,2023-02-01,Silver,no
+CUS0015,Kavitha Chua,kavitha.chua79@yahoo.com.sg,+65 99300394,373835,2025-10-21,Bronze,yes
+CUS0016,Serene Chan,serene.chan34@yahoo.com.sg,+65 96560966,382999,2025-06-15,Gold,no
+CUS0017,Nurul Sim,nurul.sim21@outlook.com,+65 99216130,111569,2023-10-07,Bronze,no
+CUS0018,Serene Goh,serene.goh7@gmail.com,+65 96356126,206453,2023-08-16,Bronze,no
+CUS0019,Priya Hassan,priya.hassan9@hotmail.com,+65 97899807,561998,2023-03-02,Bronze,yes
+CUS0020,Joel Koh,joel.koh50@gmail.com,+65 95697543,421104,2024-11-03,Silver,yes
+CUS0021,Serene Low,serene.low88@outlook.com,+65 95134235,712496,2024-03-26,Bronze,yes
+CUS0022,Terence Ismail,terence.ismail79@gmail.com,+65 99959154,289830,2023-08-05,Bronze,yes
+CUS0023,Yi Ting Tan,yi.ting.tan53@gmail.com,+65 94130375,498769,2024-02-09,Gold,yes
+CUS0024,Lionel Sim,lionel.sim45@gmail.com,+65 99803888,418216,2023-07-31,Bronze,yes
+CUS0025,Arjun Ismail,arjun.ismail78@hotmail.com,+65 91021413,773978,2023-07-24,Bronze,no
+CUS0026,Desmond Sharma,desmond.sharma79@yahoo.com.sg,+65 97270150,716594,2025-01-01,Bronze,no
+CUS0027,Hui Shan Ismail,hui.shan.ismail55@gmail.com,+65 97339813,354138,2023-04-11,Silver,yes
+CUS0028,Wei Ming Hassan,wei.ming.hassan70@yahoo.com.sg,+65 98954064,665076,2025-07-20,Bronze,yes
+CUS0029,Serene Koh,serene.koh35@outlook.com,+65 91340045,519572,2023-07-01,Silver,yes
+CUS0030,Serene Abdullah,serene.abdullah20@outlook.com,+65 96107602,479801,2023-03-04,Silver,yes
+CUS0031,Wei Ming Ong,wei.ming.ong33@yahoo.com.sg,+65 92010520,422442,2025-06-29,Bronze,no
+CUS0032,Chloe Ng,chloe.ng59@yahoo.com.sg,+65 94252506,542770,2024-01-12,Bronze,yes
+CUS0033,Jun Hao Low,jun.hao.low99@gmail.com,+65 97432639,266705,2025-02-27,Gold,yes
+CUS0034,Nurul Goh,nurul.goh72@outlook.com,+65 99046776,157129,2024-10-06,Bronze,yes
+CUS0035,Arjun Yeo,arjun.yeo64@yahoo.com.sg,+65 94359897,552308,2023-04-22,Silver,yes
+CUS0036,Elaine Nair,elaine.nair64@gmail.com,+65 98684325,291487,2024-10-27,Silver,yes
+CUS0037,Nadia Tan,nadia.tan20@hotmail.com,+65 93428874,372220,2026-01-06,Silver,yes
+CUS0038,Aisha Goh,aisha.goh76@gmail.com,+65 92863498,754865,2024-09-12,Bronze,no
+CUS0039,Daniel Sim,daniel.sim54@outlook.com,+65 93385415,529494,2024-07-01,Bronze,yes
+CUS0040,Farah Sim,farah.sim10@hotmail.com,+65 95116866,755823,2024-10-21,Gold,yes
+CUS0041,Serene Menon,serene.menon25@gmail.com,+65 97313192,479856,2024-03-09,Gold,yes
+CUS0042,Clarissa Teo,clarissa.teo94@gmail.com,+65 98127885,782540,2024-03-09,Silver,yes
+CUS0043,Serene Teo,serene.teo5@outlook.com,+65 95128598,281511,2023-04-09,Gold,yes
+CUS0044,Jun Hao Sim,jun.hao.sim20@yahoo.com.sg,+65 91873489,358490,2024-04-28,Silver,no
+CUS0045,Wei Ming Sim,wei.ming.sim43@hotmail.com,+65 99874746,475097,2024-11-26,Gold,yes
+CUS0046,Joel Sim,joel.sim61@outlook.com,+65 94927396,329027,2023-04-04,Bronze,yes
+CUS0047,Jun Hao Goh,jun.hao.goh2@outlook.com,+65 99364980,434789,2024-02-09,Bronze,yes
+CUS0048,Grace Ng,grace.ng48@outlook.com,+65 94473844,517337,2025-10-29,Silver,yes
+CUS0049,Desmond Hassan,desmond.hassan27@yahoo.com.sg,+65 99475863,453067,2025-01-10,Bronze,yes
+CUS0050,Terence Menon,terence.menon78@hotmail.com,+65 91036944,498722,2024-03-17,Silver,yes
+CUS0051,Daniel Teo,daniel.teo49@yahoo.com.sg,+65 97532217,792229,2023-08-15,Bronze,no
+CUS0052,Farah Koh,farah.koh83@gmail.com,+65 97595663,605430,2023-10-16,Bronze,no
+CUS0053,Desmond Wong,desmond.wong69@outlook.com,+65 95390539,388347,2025-11-09,Silver,yes
+CUS0054,Daniel Hassan,daniel.hassan41@hotmail.com,+65 92284365,509566,2025-08-18,Silver,no
+CUS0055,Rashid Yeo,rashid.yeo62@yahoo.com.sg,+65 96913389,144121,2025-02-21,Silver,yes
+CUS0056,Desmond Low,desmond.low67@yahoo.com.sg,+65 94334270,369597,2023-01-24,Bronze,yes
+CUS0057,Chloe Sim,chloe.sim29@hotmail.com,+65 92301338,525889,2025-12-21,Silver,yes
+CUS0058,Benjamin Yeo,benjamin.yeo74@hotmail.com,+65 95414577,315977,2025-04-06,Silver,yes
+CUS0059,Terence Ong,terence.ong66@outlook.com,+65 93359340,532070,2023-05-31,Gold,yes
+CUS0060,Elaine Ismail,elaine.ismail94@outlook.com,+65 94267479,355718,2025-06-16,Bronze,no

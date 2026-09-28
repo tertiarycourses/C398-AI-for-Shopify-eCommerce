@@ -46,3 +46,4 @@ courseware/archive/
 # ...but keep skill reference IMPLEMENTATIONS (builder scripts the skills run)
 !.claude/skills/**/reference/
 !.claude/skills/**/reference/**
+source-wsq/
